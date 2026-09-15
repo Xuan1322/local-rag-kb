@@ -100,7 +100,3 @@ Key 不上传到任何第三方，问答请求由你的后端直接发往你配�
 ```powershell
 $env:JWT_SECRET="你的随机密钥"
 ```
-
-## License
-
-MIT
